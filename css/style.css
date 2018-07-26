@@ -1,0 +1,21 @@
+#bot{
+	background-color: salmon;
+}
+#par{
+	background-color: crimson;
+	width: 49%;
+	outline-style: dotted;
+
+}
+#par2{
+	background-color: pink;
+	width: 49%;
+	outline-style: dotted;
+}
+.divet{display: inline-block;}
+ #botti{background-color: plum;
+}
+body {
+    background-color: lightblue;
+}
+#par4{box-shadow: 10px 10px5 px pink;}
